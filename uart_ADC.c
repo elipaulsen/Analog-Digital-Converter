@@ -1,5 +1,5 @@
 /*
- * lab5.c
+ * uart_ADC.c
  *
  * Created: 4/11/2023 12:25:15 PM
  * Author : eplsn
